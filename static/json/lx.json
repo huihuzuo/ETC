@@ -1,0 +1,329 @@
+{
+  "code": "200",
+  "data": [
+    {
+      "children": [
+      ],
+      "id": "S1",
+      "label": "机场高速",
+      "roadcode": "",
+      "roadend": 27.277,
+      "roadname": "",
+      "roadstart": 1,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S22",
+      "label": "南林高速",
+      "roadcode": "",
+      "roadend": 185.705,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S26",
+      "label": "范辉高速",
+      "roadcode": "",
+      "roadend": 125.353,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S28",
+      "label": "长济高速",
+      "roadcode": "",
+      "roadend": 292.145,
+      "roadname": "",
+      "roadstart": 37.897,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S32",
+      "label": "永登高速",
+      "roadcode": "",
+      "roadend": 340.114,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S38",
+      "label": "新阳高速",
+      "roadcode": "",
+      "roadend": 189.51,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S39",
+      "label": "淮固高速",
+      "roadcode": "",
+      "roadend": 66.586,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S49",
+      "label": "焦桐高速",
+      "roadcode": "",
+      "roadend": 355.999,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S59",
+      "label": "三淅高速",
+      "roadcode": "",
+      "roadend": 202.615,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S60",
+      "label": "商登高速",
+      "roadcode": "",
+      "roadend": 321.038,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S62",
+      "label": "淮息高速",
+      "roadcode": "",
+      "roadend": 49.235,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S81",
+      "label": "商周高速",
+      "roadcode": "",
+      "roadend": 165.243,
+      "roadname": "",
+      "roadstart": 1.009,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S82",
+      "label": "郑民高速",
+      "roadcode": "",
+      "roadend": 72.715,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S83",
+      "label": "兰南高速",
+      "roadcode": "",
+      "roadend": 308.281,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S8311",
+      "label": "南阳北绕城高速",
+      "roadcode": "",
+      "roadend": 24.247,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S85",
+      "label": "郑卢高速",
+      "roadcode": "",
+      "roadend": 269.837,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S86",
+      "label": "原焦高速",
+      "roadcode": "",
+      "roadend": 58.389,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S87",
+      "label": "郑云高速",
+      "roadcode": "",
+      "roadend": 28.638,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S88",
+      "label": "武西高速",
+      "roadcode": "",
+      "roadend": 183.747,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S89",
+      "label": "机西高速",
+      "roadcode": "",
+      "roadend": 151.402,
+      "roadname": "",
+      "roadstart": 45.1,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S96",
+      "label": "洛栾高速",
+      "roadcode": "",
+      "roadend": 129.229,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S97",
+      "label": "济祁高速",
+      "roadcode": "",
+      "roadend": 140.066,
+      "roadname": "",
+      "roadstart": 83.907,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    },
+    {
+      "children": [
+      ],
+      "id": "S98",
+      "label": "内邓高速",
+      "roadcode": "",
+      "roadend": 89.107,
+      "roadname": "",
+      "roadstart": 0,
+      "segment_code": "",
+      "segment_name": "",
+      "sfzzh": null,
+      "subcenter_code": ""
+    }
+  ],
+  "msg": "",
+  "success": true
+}

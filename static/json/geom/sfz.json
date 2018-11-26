@@ -1,0 +1,108 @@
+{
+  "data": {
+    "allCount": 234,
+    "features": [
+      {
+        "attributes": {
+          "OBJECTID": "45",
+          "id": "G00011100100101210",
+          "ID": "G00011100100101210",
+          "name": "白鹿主站入",
+          "plazaType": 1,
+          "lng": 116.573369,
+          "lat": 39.865918,
+          "stakeNum": "0",
+          "mixLaneCount": 0,
+          "rn": 1,
+          "lxbm": "G0001",
+          "xzqhName": "北京市",
+          "plazaTypeName": "主线收费广场",
+          "tollStationId": "G0001110010010",
+          "tollStationName": "白鹿主站",
+          "etclaneCount": 4,
+          "mtclaneCount": 9,
+          "operation": 1,
+          "operationTime": "2018-11-07 17:28:17"
+        },
+        "geometry": "POINT (115.546784212 26.87512154)",
+        "geometryType": "Point"
+      },
+      {
+        "attributes": {
+          "OBJECTID": "46",
+          "id": "G00011100100102120",
+          "ID": "{2B7BD352-745B-45F4-B20A-808F572A57EB}",
+          "name": "白鹿主站入",
+          "plazaType": 1,
+          "lng": 116.573369,
+          "lat": 39.865918,
+          "stakeNum": "0",
+          "mixLaneCount": 0,
+          "rn": 1,
+          "lxbm": "G0001",
+          "xzqhName": "北京市",
+          "plazaTypeName": "主线收费广场",
+          "tollStationId": "G0001110010010",
+          "tollStationName": "白鹿主站",
+          "etclaneCount": 4,
+          "mtclaneCount": 9,
+          "operation": 1,
+          "operationTime": "2018-11-07 17:28:17"
+        },
+        "geometry": "POINT (115.68756415845 26.24875458)",
+        "geometryType": "Point"
+      },
+      {
+        "attributes": {
+          "OBJECTID": "48",
+          "id": "G00011100100201310",
+          "ID": "{CF7D9F39-3549-4068-8648-76F5E06C0295}",
+          "name": "白鹿主站入",
+          "plazaType": 1,
+          "lng": 116.573369,
+          "lat": 39.865918,
+          "stakeNum": "0",
+          "mixLaneCount": 0,
+          "rn": 1,
+          "lxbm": "G0001",
+          "xzqhName": "北京市",
+          "plazaTypeName": "主线收费广场",
+          "tollStationId": "G0001110010010",
+          "tollStationName": "白鹿主站",
+          "etclaneCount": 4,
+          "mtclaneCount": 9,
+          "operation": 1,
+          "operationTime": "2018-11-07 17:28:17"
+        },
+        "geometry": "POINT (115.58498781 26.57842121)",
+        "geometryType": "Point"
+      },
+      {
+        "attributes": {
+          "OBJECTID": "50",
+          "id": "G00011100100202320",
+          "ID": "{AB024088-DCAF-4314-91C1-B7265A07F58D}",
+          "name": "白鹿主站入",
+          "plazaType": 1,
+          "lng": 116.573369,
+          "lat": 39.865918,
+          "stakeNum": "0",
+          "mixLaneCount": 0,
+          "rn": 1,
+          "lxbm": "G0001",
+          "xzqhName": "北京市",
+          "plazaTypeName": "主线收费广场",
+          "tollStationId": "G0001110010010",
+          "tollStationName": "白鹿主站",
+          "etclaneCount": 4,
+          "mtclaneCount": 9,
+          "operation": 1,
+          "operationTime": "2018-11-07 17:28:17"
+        },
+        "geometry": "POINT (115.6812544 26.84512584)",
+        "geometryType": "Point"
+      }
+    ]
+  },
+  "success": true
+}
